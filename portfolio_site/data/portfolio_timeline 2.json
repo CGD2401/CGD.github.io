@@ -1,0 +1,389 @@
+{
+  "title": {
+    "text": {
+      "headline": "Portfolio Roadmap 2025\u20132027",
+      "text": "Geoscience, Climate, Genomics, Investments & AI"
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": 2025,
+        "month": 9,
+        "day": 1
+      },
+      "text": {
+        "headline": "Kickoff \u2014 Branding & Setup",
+        "text": "Define tagline, set up GitHub Pages, repo structure, and visual style. Publish a short LinkedIn announcement."
+      },
+      "media": {
+        "url": "https://your-site/assets/branding-cover.png",
+        "credit": "CGD"
+      },
+      "group": "Meta",
+      "background": {
+        "color": "#e7f0f6"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2025,
+        "month": 9,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2025,
+        "month": 10,
+        "day": 31
+      },
+      "text": {
+        "headline": "Certification \u2014 Machine Learning (Andrew Ng)",
+        "text": "Refresher on supervised learning, evaluation, bias/variance; aligns with Project 1."
+      },
+      "media": {
+        "url": "https://your-site/assets/certificates/ml-andrew-ng.png",
+        "credit": "Stanford"
+      },
+      "group": "Certifications",
+      "background": {
+        "color": "#d9edf7"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2025,
+        "month": 10,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2025,
+        "month": 11,
+        "day": 30
+      },
+      "text": {
+        "headline": "Project 1 \u2014 Climate Extreme Events Forecast",
+        "text": "ERA5 pipeline; ARIMA/Prophet baselines; first LSTM with cross\u2011validation; Streamlit demo. <a href='https://github.com/CGD2401/climate-extreme-forecast'>Repo</a>"
+      },
+      "media": {
+        "url": "https://your-site/demos/climate-forecast.png",
+        "credit": "CGD"
+      },
+      "group": "Climate",
+      "background": {
+        "color": "#7fa0b8"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2025,
+        "month": 10,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2025,
+        "month": 12,
+        "day": 31
+      },
+      "text": {
+        "headline": "Certification \u2014 Deep Learning Specialization",
+        "text": "CNNs, sequence models, regularization, optimization, and practical DL engineering."
+      },
+      "media": {
+        "url": "https://your-site/assets/certificates/dl-specialization.png",
+        "credit": "DeepLearning.AI"
+      },
+      "group": "Certifications",
+      "background": {
+        "color": "#d9edf7"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2025,
+        "month": 12,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2026,
+        "month": 2,
+        "day": 28
+      },
+      "text": {
+        "headline": "Project 2 \u2014 Satellite Change Detection",
+        "text": "Sentinel\u20112 preprocessing; U\u2011Net segmentation; before/after geospatial viewer with Leaflet. <a href='https://github.com/CGD2401/satellite-change-detection'>Repo</a>"
+      },
+      "media": {
+        "url": "https://your-site/demos/satellite-change.gif",
+        "credit": "CGD"
+      },
+      "group": "Geoscience",
+      "background": {
+        "color": "#7fa0b8"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2026,
+        "month": 1,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2026,
+        "month": 3,
+        "day": 31
+      },
+      "text": {
+        "headline": "Certification \u2014 AI for Medicine",
+        "text": "Diagnostics, treatment effect, and medical ML pipelines; foundations for genomics work."
+      },
+      "media": {
+        "url": "https://your-site/assets/certificates/ai-for-medicine.png",
+        "credit": "DeepLearning.AI"
+      },
+      "group": "Certifications",
+      "background": {
+        "color": "#d9edf7"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2026,
+        "month": 2,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2026,
+        "month": 3,
+        "day": 31
+      },
+      "text": {
+        "headline": "Project 3 \u2014 Genomic Variant Classification",
+        "text": "1000 Genomes pipeline; features for SNVs; XGBoost vs sequence CNN; PR\u2011AUC & calibration. <a href='https://github.com/CGD2401/genomic-variant-classification'>Repo</a>"
+      },
+      "media": {
+        "url": "https://your-site/demos/genomics-classification.png",
+        "credit": "CGD"
+      },
+      "group": "Genomics",
+      "background": {
+        "color": "#b8d5e3"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2026,
+        "month": 4,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2026,
+        "month": 6,
+        "day": 30
+      },
+      "text": {
+        "headline": "Project 4 \u2014 Investment Risk & Forecasting",
+        "text": "EDA on assets; ARIMA/Prophet/LSTM; GARCH for volatility; VaR & Sharpe; Monte Carlo; Dash app. <a href='https://github.com/CGD2401/investment-risk-forecasting'>Repo</a>"
+      },
+      "media": {
+        "url": "https://your-site/demos/finance-dashboard.png",
+        "credit": "CGD"
+      },
+      "group": "Investments",
+      "background": {
+        "color": "#c0e2c3"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2026,
+        "month": 4,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2026,
+        "month": 6,
+        "day": 30
+      },
+      "text": {
+        "headline": "Certification \u2014 Earth Analytics & Remote Sensing",
+        "text": "Geospatial workflows, raster/vector fundamentals, and remote sensing for Earth science."
+      },
+      "media": {
+        "url": "https://your-site/assets/certificates/earth-analytics.png",
+        "credit": "University of Colorado"
+      },
+      "group": "Certifications",
+      "background": {
+        "color": "#d9edf7"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2026,
+        "month": 7,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2026,
+        "month": 9,
+        "day": 30
+      },
+      "text": {
+        "headline": "Project 5 \u2014 Generative Climate Insights",
+        "text": "Diffusion/GANs to simulate climate scenarios; compare against IPCC ground truth; interactive gallery. <a href='https://github.com/CGD2401/generative-climate-insights'>Repo</a>"
+      },
+      "media": {
+        "url": "https://your-site/demos/generative-climate.png",
+        "credit": "CGD"
+      },
+      "group": "Climate",
+      "background": {
+        "color": "#7fa0b8"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2026,
+        "month": 7,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2026,
+        "month": 8,
+        "day": 31
+      },
+      "text": {
+        "headline": "Certification \u2014 IBM Cybersecurity Analyst",
+        "text": "Security and governance for data/AI projects; privacy and threat basics."
+      },
+      "media": {
+        "url": "https://your-site/assets/certificates/ibm-cybersecurity.png",
+        "credit": "IBM"
+      },
+      "group": "Certifications",
+      "background": {
+        "color": "#d9edf7"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2026,
+        "month": 9,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2026,
+        "month": 10,
+        "day": 31
+      },
+      "text": {
+        "headline": "Certification \u2014 Generative AI Specialization",
+        "text": "Prompting, evaluation, safety, and deployment patterns for GenAI apps."
+      },
+      "media": {
+        "url": "https://your-site/assets/certificates/genai-specialization.png",
+        "credit": "DeepLearning.AI"
+      },
+      "group": "Certifications",
+      "background": {
+        "color": "#d9edf7"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2027,
+        "month": 1,
+        "day": 31
+      },
+      "text": {
+        "headline": "Project 6 \u2014 Earth & Health Data Fusion",
+        "text": "Fuse climate and genomic features; attention\u2011based models; climate\u2011health risk explorer dashboard. <a href='https://github.com/CGD2401/earth-health-fusion'>Repo</a>"
+      },
+      "media": {
+        "url": "https://your-site/demos/earth-health-dashboard.png",
+        "credit": "CGD"
+      },
+      "group": "Fusion",
+      "background": {
+        "color": "#b8d5e3"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2026,
+        "month": 12,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2027,
+        "month": 1,
+        "day": 31
+      },
+      "text": {
+        "headline": "Certification \u2014 Data Visualization (Tableau/Power BI)",
+        "text": "Storytelling, dashboards, and communication of uncertainty."
+      },
+      "media": {
+        "url": "https://your-site/assets/certificates/dataviz.png",
+        "credit": "UC Davis / Microsoft"
+      },
+      "group": "Certifications",
+      "background": {
+        "color": "#d9edf7"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2027,
+        "month": 2,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2027,
+        "month": 2,
+        "day": 15
+      },
+      "text": {
+        "headline": "Certification \u2014 Prompt Engineering for Developers",
+        "text": "Integrate LLMs into data pipelines and apps; evaluation and safety basics."
+      },
+      "media": {
+        "url": "https://your-site/assets/certificates/prompt-engineering.png",
+        "credit": "DeepLearning.AI"
+      },
+      "group": "Certifications",
+      "background": {
+        "color": "#d9edf7"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2027,
+        "month": 2,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2027,
+        "month": 2,
+        "day": 28
+      },
+      "text": {
+        "headline": "Polish & Release \u2014 Portfolio",
+        "text": "Finalize READMEs, record 1\u2011minute videos per project, export PDF portfolio, and post the final summary on LinkedIn."
+      },
+      "media": {
+        "url": "https://your-site/assets/portfolio-cover.png",
+        "credit": "CGD"
+      },
+      "group": "Meta",
+      "background": {
+        "color": "#e7f0f6"
+      }
+    }
+  ]
+}
