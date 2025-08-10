@@ -1,79 +1,39 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Portfolio — CGD · Data Science</title>
-  <link rel="stylesheet" href="/css/styles.css" />
-  <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CGD Portfolio</title>
+    <link rel="stylesheet" href="Assets/css/style.css">
 </head>
 <body>
-  <nav class="nav">
-    <a href="/">Home</a>
-    <a href="/#timeline">Timeline</a>
-    <a href="/#projects">Projects</a>
-    <a href="/about.html">About</a>
-    <a href="/contact.html">Contact</a>
-  </nav>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="Roadmap/timeline.html">Timeline</a></li>
+                <li><a href="Projects/index.html">Projects</a></li>
+                <li><a href="Portfolio/index.html">About</a></li>
+                <li><a href="Contact/index.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
 
-  <header class="hero">
-    <div class="container">
-      <h1>Data Scientist bridging Earth, Health, Climate & Finance with AI</h1>
-      <p>Geosciences 🌍 · Climate 🌡️ · Genomics 🧬 · Investments 📈 · ML & AI 🤖</p>
-      <div style="margin-top:12px;">
-        <span class="badge">Python</span>
-        <span class="badge">PyTorch</span>
-        <span class="badge">Geospatial</span>
-        <span class="badge">Time Series</span>
-        <span class="badge">Genomics</span>
-        <span class="badge">Quant</span>
-      </div>
-    </div>
-  </header>
+    <section class="hero">
+        <h1>Data Scientist bridging Earth, Health, Climate & Finance with AI</h1>
+        <p>Geosciences 🌍 · Climate 🌡️ · Genomics 🧬 · Investments 📈 · ML & AI 🤖</p>
+        <p>Python · PyTorch · Geospatial · Time Series · Genomics · Quant</p>
+    </section>
 
-  <section id="timeline" class="section">
-    <div class="container">
-      <h2>Roadmap 2025–2027</h2>
-      <p>Hitos del portfolio: proyectos, certificaciones y publicaciones.</p>
-      <div id="timeline-embed" style="width: 100%; height: 650px;"></div>
-    </div>
-  </section>
+    <section class="roadmap-preview">
+        <h2>Roadmap 2025–2027</h2>
+        <p>Milestones: projects, certifications, and publications.</p>
+        <a href="Roadmap/timeline.html" class="btn">View Full Timeline</a>
+    </section>
 
-  <section id="projects" class="section">
-    <div class="container">
-      <h2>Projects</h2>
-      <div class="grid">
-        <a class="card" href="/projects/climate-extreme-forecast/">
-          <h3>Climate Extreme Events Forecast</h3>
-          <p>ERA5 pipeline; ARIMA/Prophet/LSTM; demo en Streamlit.</p>
-        </a>
-        <a class="card" href="/projects/satellite-change-detection/">
-          <h3>Satellite Change Detection</h3>
-          <p>Sentinel-2; U-Net; mapas before/after con Leaflet.</p>
-        </a>
-        <a class="card" href="/projects/genomic-variant-classification/">
-          <h3>Genomic Variant Classification</h3>
-          <p>1000 Genomes; XGBoost vs CNN para secuencias.</p>
-        </a>
-        <a class="card" href="/projects/investment-risk-forecasting/">
-          <h3>Investment Risk & Forecasting</h3>
-          <p>GARCH/Prophet/LSTM; VaR & Sharpe; Monte Carlo; Dash app.</p>
-        </a>
-      </div>
-    </div>
-  </section>
-
-  <footer class="footer">
-    © CGD — 2025. Built with TimelineJS & GitHub Pages.
-  </footer>
-
-  <script>
-    var timelineOptions = { initial_zoom: 2 };
-    window.timeline = new TL.Timeline(
-      'timeline-embed',
-      '/data/portfolio_timeline.json',
-      timelineOptions
-    );
-  </script>
+    <footer>
+        <p>&copy; 2025 CGD. All rights reserved.</p>
+    </footer>
 </body>
 </html>
+
