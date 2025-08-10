@@ -1,0 +1,389 @@
+{
+  "title": {
+    "text": {
+      "headline": "Portfolio Roadmap 2025\u20132027",
+      "text": "Geoscience, Climate, Genomics, Investments & AI"
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": 2025,
+        "month": 9,
+        "day": 1
+      },
+      "text": {
+        "headline": "Kickoff \u2014 Branding & Setup",
+        "text": "Define tagline, set up GitHub Pages and repo structure. Announcement post on LinkedIn."
+      },
+      "media": {
+        "url": "https://your-site/assets/branding-cover.png",
+        "credit": "You"
+      },
+      "group": "Meta",
+      "background": {
+        "color": "#1f4f6e"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2025,
+        "month": 10,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2025,
+        "month": 11,
+        "day": 30
+      },
+      "text": {
+        "headline": "Project 1 \u2014 Climate Extreme Events Forecast",
+        "text": "ERA5 pipeline + ARIMA/Prophet/LSTM; Streamlit demo. Article: 'Forecasting Extreme Weather with AI'."
+      },
+      "media": {
+        "url": "https://your-site/demos/climate-forecast.png",
+        "credit": "You"
+      },
+      "group": "Climate",
+      "background": {
+        "color": "#7fa0b8"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2025,
+        "month": 10,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2025,
+        "month": 12,
+        "day": 31
+      },
+      "text": {
+        "headline": "Certification \u2014 Deep Learning Specialization",
+        "text": "Courses 1\u20135 (DeepLearning.AI)."
+      },
+      "media": {
+        "url": "https://your-site/assets/certificates/dl-specialization.png",
+        "credit": "DeepLearning.AI"
+      },
+      "group": "Certifications",
+      "background": {
+        "color": "#d9edf7"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2025,
+        "month": 9,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2025,
+        "month": 10,
+        "day": 31
+      },
+      "text": {
+        "headline": "Certification \u2014 Machine Learning (Andrew Ng)",
+        "text": "Refresher on core ML; aligns with Project 1."
+      },
+      "media": {
+        "url": "https://your-site/assets/certificates/ml-andrew-ng.png",
+        "credit": "Stanford"
+      },
+      "group": "Certifications",
+      "background": {
+        "color": "#d9edf7"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2025,
+        "month": 12,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2026,
+        "month": 2,
+        "day": 28
+      },
+      "text": {
+        "headline": "Project 2 \u2014 Satellite Change Detection",
+        "text": "Sentinel-2 preprocessing; U-Net segmentation; Leaflet/Map layer for before/after visualization."
+      },
+      "media": {
+        "url": "https://your-site/demos/satellite-change.gif",
+        "credit": "You"
+      },
+      "group": "Geoscience",
+      "background": {
+        "color": "#7fa0b8"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2026,
+        "month": 1,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2026,
+        "month": 3,
+        "day": 31
+      },
+      "text": {
+        "headline": "Certification \u2014 AI for Medicine",
+        "text": "Courses 1\u20133; supports later genomics project."
+      },
+      "media": {
+        "url": "https://your-site/assets/certificates/ai-for-medicine.png",
+        "credit": "DeepLearning.AI"
+      },
+      "group": "Certifications",
+      "background": {
+        "color": "#d9edf7"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2026,
+        "month": 2,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2026,
+        "month": 3,
+        "day": 31
+      },
+      "text": {
+        "headline": "Project 3 \u2014 Genomic Variant Classification",
+        "text": "1000 Genomes pipeline; XGBoost vs CNN on sequences. Blog post on ML in Genomics."
+      },
+      "media": {
+        "url": "https://your-site/demos/genomics-classification.png",
+        "credit": "You"
+      },
+      "group": "Genomics",
+      "background": {
+        "color": "#b8d5e3"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2026,
+        "month": 4,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2026,
+        "month": 6,
+        "day": 30
+      },
+      "text": {
+        "headline": "Project 4 \u2014 Investment Risk & Forecasting",
+        "text": "Time-series EDA; GARCH/Prophet/LSTM; VaR & Sharpe; Monte Carlo scenarios; Plotly Dash app."
+      },
+      "media": {
+        "url": "https://your-site/demos/finance-dashboard.png",
+        "credit": "You"
+      },
+      "group": "Finance",
+      "background": {
+        "color": "#c0e2c3"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2026,
+        "month": 4,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2026,
+        "month": 6,
+        "day": 30
+      },
+      "text": {
+        "headline": "Certification \u2014 Earth Analytics & Remote Sensing",
+        "text": "Remote sensing, geospatial workflows; reinforces geoscience projects."
+      },
+      "media": {
+        "url": "https://your-site/assets/certificates/earth-analytics.png",
+        "credit": "University of Colorado"
+      },
+      "group": "Certifications",
+      "background": {
+        "color": "#d9edf7"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2026,
+        "month": 7,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2026,
+        "month": 9,
+        "day": 30
+      },
+      "text": {
+        "headline": "Project 5 \u2014 Generative Climate Insights",
+        "text": "Diffusion/GANs to simulate climate scenarios; compare with IPCC baselines; interactive gallery."
+      },
+      "media": {
+        "url": "https://your-site/demos/generative-climate.png",
+        "credit": "You"
+      },
+      "group": "Climate",
+      "background": {
+        "color": "#7fa0b8"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2026,
+        "month": 7,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2026,
+        "month": 8,
+        "day": 31
+      },
+      "text": {
+        "headline": "Certification \u2014 IBM Cybersecurity Analyst",
+        "text": "Security foundations for data/AI products; governance & privacy angle."
+      },
+      "media": {
+        "url": "https://your-site/assets/certificates/ibm-cybersecurity.png",
+        "credit": "IBM"
+      },
+      "group": "Certifications",
+      "background": {
+        "color": "#d9edf7"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2026,
+        "month": 9,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2026,
+        "month": 10,
+        "day": 31
+      },
+      "text": {
+        "headline": "Certification \u2014 Generative AI Specialization",
+        "text": "Advanced GenAI workflows; prompts, evaluation, and deployment."
+      },
+      "media": {
+        "url": "https://your-site/assets/certificates/genai-specialization.png",
+        "credit": "DeepLearning.AI"
+      },
+      "group": "Certifications",
+      "background": {
+        "color": "#d9edf7"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2027,
+        "month": 1,
+        "day": 31
+      },
+      "text": {
+        "headline": "Project 6 \u2014 Earth & Health Data Fusion",
+        "text": "Fuse climate and genomic features; attention-based models; dashboard for climate\u2013health risks."
+      },
+      "media": {
+        "url": "https://your-site/demos/earth-health-dashboard.png",
+        "credit": "You"
+      },
+      "group": "Fusion",
+      "background": {
+        "color": "#b8d5e3"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2026,
+        "month": 12,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2027,
+        "month": 1,
+        "day": 31
+      },
+      "text": {
+        "headline": "Certification \u2014 Data Visualization (Tableau/Power BI)",
+        "text": "Storytelling with data; polish for dashboards and portfolio visuals."
+      },
+      "media": {
+        "url": "https://your-site/assets/certificates/dataviz.png",
+        "credit": "UC Davis / Microsoft"
+      },
+      "group": "Certifications",
+      "background": {
+        "color": "#d9edf7"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2027,
+        "month": 2,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2027,
+        "month": 2,
+        "day": 28
+      },
+      "text": {
+        "headline": "Polish & Release \u2014 Portfolio",
+        "text": "Finalize READMEs, record 1-min videos, export PDF portfolio; summary post on LinkedIn."
+      },
+      "media": {
+        "url": "https://your-site/assets/portfolio-cover.png",
+        "credit": "You"
+      },
+      "group": "Meta",
+      "background": {
+        "color": "#1f4f6e"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2027,
+        "month": 2,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2027,
+        "month": 2,
+        "day": 15
+      },
+      "text": {
+        "headline": "Certification \u2014 Prompt Engineering for Developers",
+        "text": "LLM integration in pipelines & apps."
+      },
+      "media": {
+        "url": "https://your-site/assets/certificates/prompt-engineering.png",
+        "credit": "DeepLearning.AI"
+      },
+      "group": "Certifications",
+      "background": {
+        "color": "#d9edf7"
+      }
+    }
+  ]
+}

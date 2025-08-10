@@ -1,0 +1,17 @@
+
+html, body { margin:0; padding:0; font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; color:#0f172a; background:#ffffff; }
+a { color:#254f6e; text-decoration:none; }
+a:hover { text-decoration:underline; }
+.container { max-width: 1120px; margin: 0 auto; padding: 24px; }
+.nav { display:flex; gap:18px; align-items:center; padding:16px 24px; border-bottom:1px solid #e5e7eb; }
+.nav a { font-weight:600; }
+.hero { padding:56px 24px 24px; background:linear-gradient(135deg, #f0f7fb, #ffffff); border-bottom:1px solid #e5e7eb; }
+.hero h1 { margin:0 0 8px; font-size:36px; letter-spacing:-0.02em;}
+.hero p { margin:0; max-width: 720px; color:#475569; }
+.section { padding: 32px 24px; }
+.grid { display:grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap:16px; }
+.card { border:1px solid #e5e7eb; border-radius:12px; padding:16px; }
+.card h3 { margin-top:0; margin-bottom:8px; font-size:18px;}
+.badge { display:inline-block; padding:4px 10px; border-radius:999px; font-size:12px; background:#eaf2f7; color:#254f6e; margin-right:6px;}
+.footer { padding:24px; color:#64748b; border-top:1px solid #e5e7eb; text-align:center; }
+iframe { border: none; }
